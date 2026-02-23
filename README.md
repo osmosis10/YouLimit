@@ -19,12 +19,12 @@ Enabling this toggle will completely most shorts content on home page and while 
 
 Enabling this toggle will filter out videos that do belong to the 'Educational' or 'Science  
 and Technology' categories.  
-note: _Youtube API key required, current has key exists on locally on client side ignored by git_
+note: _Youtube API key required, currently key exists locally on client side ignored by git_.
 
 ## Locked In Mode
 
 ![Default mode image](assets/lockedInScreen.png)  
-In 'Locked In' mode, offers more simplicity as well as the option for more accountability while  
+'Locked In' mode, offers more simplicity as well as the option for more accountability while  
 studying.
 
 ### Lock In Toggle
